@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @marcbacchi
+- 👋 Hi, I’m @marcbacchi, tech nerd for many years, moving from support into 
 - 👀 I’m interested in ...
   Cloud, AWS, sharpening coding skills, learning more Python and other languages 
 - 🌱 I’m currently learning ...
-  AWS Architect Assoc. training, building Cloud Resume Challenge project, Python, AWS Lambda and other Serverless
+  AWS Solution Architect, Python, Serverless, Go 
 - 💞️ I’m looking to collaborate on ...
-  Anything, but mainly focusing on completing my own projects first, then getting involved in collaborative projects.
+  "Good First Issues" in GitHub, getting involved in projects that are ethical, help humans, privacy, equity.
 - 📫 How to reach me ...
   Here
 
