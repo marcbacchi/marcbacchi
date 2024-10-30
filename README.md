@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
   "Good First Issues" in GitHub, getting involved in ethical projects, helping humans, digital privacy, equity.
 - 📫 How to reach me ...
-  marcbacchi.dev, linkedin.com/in/marcbacchi, smoke signals, twitter @marcbacchi
+  marcbacchi.dev, linkedin.com/in/marcbacchi, reflexapparel.com, smoke signals
 
 <!---
 marcbacchi/marcbacchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
